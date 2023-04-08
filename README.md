@@ -5,7 +5,6 @@ I am a systems developer student based in Malmö, Sweden. I have so far worked o
 My course involves a lot of learning about and practising Agile processes, using modern techniques for software development.
 
 - 🌱 I’m currently learning about applied software architecture and research methodologies.
-- 👯 I’m looking for an internship for autumn 2023 in the Malmö/Öresund area
 
 <!--
 **krilleellerstoffe/krilleellerstoffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
