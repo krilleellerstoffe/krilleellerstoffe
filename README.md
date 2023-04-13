@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats :
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krilleellerstoffe&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krilleellerstoffe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=krilleellerstoffe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![Stats](https://github-readme-stats.vercel.app/api?username=krilleellerstoffe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krilleellerstoffe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krilleellerstoffe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
