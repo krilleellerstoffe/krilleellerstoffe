@@ -4,7 +4,7 @@ I am a systems developer student based in Malmö, Sweden. I have so far worked o
 
 My course involves a lot of learning about and practising Agile processes, using modern techniques for software development.
 
-- 🌱 I’m currently learning about applied software architecture and research methodologies.
+- 🌱 I’m currently learning about client side web applications, C# & .NET, and procedural content generation while I work on my examination project.
 
 <!--
 **krilleellerstoffe/krilleellerstoffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
