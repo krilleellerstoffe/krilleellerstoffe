@@ -1,6 +1,6 @@
 ### Hello 👋 my name is Christopher
 
-I am a systems developer student based in Malmö, Sweden. I have so far worked on projects revolving around webservices, database management, multi-threaded applications, sorting/searching algorithms, message communication and android development amongst others. Mostly focusing on OOP using Java, with Javascript, Python and MSSQL.
+I am a systems developer student based in Malmö, Sweden. I have so far worked on projects revolving around webservices, database management, multi-threaded applications, sorting/searching algorithms, message communication and android development amongst others. Mostly focusing on OOP using Java and C#, with the .NET ecosystem, Javascript, Python and MSSQL.
 
 My course involves a lot of learning about and practising Agile processes, using modern techniques for software development.
 
