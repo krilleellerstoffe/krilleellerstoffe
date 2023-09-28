@@ -4,7 +4,7 @@ I am a systems developer student based in Malmö, Sweden. I have so far worked o
 
 My course involves a lot of learning about and practising Agile processes, using modern techniques for software development.
 
-- 🌱 I’m currently diving deeper into javascript and C#/.NET, along with procedural content generation while I work on my examination project.
+- 🌱 I’m currently diving deeper into javascript and C#/.NET, along with procedural content generation while I work on my examination project with SAAF (Svensk AmatörAstronomisk Förening).
 
 <!--
 **krilleellerstoffe/krilleellerstoffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
