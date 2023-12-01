@@ -5,10 +5,10 @@ I am a systems developer student based in Malmö, Sweden. I have so far worked o
 - 🌱 I’m currently studying Artificial Intelligence and deepening my knowledge in Javascript, while working on my examination project with SAAF (Svensk AmatörAstronomisk Förening).
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/krilleellerstoffe/langs)](https://githubtrends.io)
 <!--
 **krilleellerstoffe/krilleellerstoffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/krilleellerstoffe/langs)](https://githubtrends.io)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
