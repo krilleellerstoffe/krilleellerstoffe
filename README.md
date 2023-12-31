@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-streak-stats.vercel.app/?user=krilleellerstoffe&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krilleellerstoffe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
--->
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=krilleellerstoffe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+-->
 
 ![Top langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krilleellerstoffe&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
